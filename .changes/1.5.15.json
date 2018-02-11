@@ -1,0 +1,12 @@
+[
+  {
+    "category": "``lambda``", 
+    "description": "[``botocore``] Update lambda client to latest version", 
+    "type": "api-change"
+  }, 
+  {
+    "category": "cloudformation get_template template body ordering", 
+    "description": "[``botocore``] fixes boto/boto3_wasabi`#1378 <https://github.com/boto/boto3_wasabi/issues/1378>`__", 
+    "type": "enhancement"
+  }
+]

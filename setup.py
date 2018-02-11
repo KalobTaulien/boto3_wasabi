@@ -29,7 +29,7 @@ setup(
     name='boto3_wasabi',
     version=get_version(),
     description='The AWS SDK for Python',
-    long_description=open('README.rst').read(),
+    long_description=open('README.md').read(),
     author='Amazon Web Services',
     url='https://github.com/KalobMTaulien/boto3_wasabi',
     scripts=[],

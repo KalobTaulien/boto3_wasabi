@@ -3,8 +3,9 @@ Installing `boto3_wasabi` allows you to continue to use AWS S3 with `boto3` _whi
 
 > Note: this is almost identical to [https://github.com/boto/boto3](https://github.com/boto/boto3). Created in response to [this support article](https://wasabi-support.zendesk.com/hc/en-us/articles/115002579891-How-do-I-use-the-AWS-SDK-for-Python-boto3-with-Wasabi-). I just replaced "boto3" with "boto3_wasabi".
 
-## Instal using pip/pip3 
+## Install using pip/pip3 
 ```pip install git+https://github.com/KalobMTaulien/boto3_wasabi```
+
 ```pip3 install git+https://github.com/KalobMTaulien/boto3_wasabi```
 ## Usage
 ```python
